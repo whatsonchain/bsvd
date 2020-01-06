@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/btcjson"
+	"github.com/whatsonchain/bsvd/btcjson"
 )
 
 // TestBtcdExtCustomResults ensures any results that have custom marshalling

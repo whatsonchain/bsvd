@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/txscript"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/txscript"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
 )
 
 const (

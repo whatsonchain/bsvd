@@ -8,10 +8,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bitcoinsv/bsvd/bsvec"
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/bsvec"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // RawTxInSignature returns the serialized ECDSA signature for the input idx of

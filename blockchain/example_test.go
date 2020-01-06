@@ -10,11 +10,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/database"
-	_ "github.com/bitcoinsv/bsvd/database/ffldb"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/database"
+	_ "github.com/whatsonchain/bsvd/database/ffldb"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

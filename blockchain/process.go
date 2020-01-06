@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

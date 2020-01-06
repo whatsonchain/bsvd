@@ -7,8 +7,8 @@ package main
 import (
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/database"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

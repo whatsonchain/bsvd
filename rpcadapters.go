@@ -7,13 +7,13 @@ package main
 import (
 	"sync/atomic"
 
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/mempool"
-	"github.com/bitcoinsv/bsvd/netsync"
-	"github.com/bitcoinsv/bsvd/peer"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/mempool"
+	"github.com/whatsonchain/bsvd/netsync"
+	"github.com/whatsonchain/bsvd/peer"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

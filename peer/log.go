@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/txscript"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/txscript"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvlog"
 )
 
 const (

@@ -9,9 +9,9 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/bitcoinsv/bsvd/btcjson"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/btcjson"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // FutureGenerateResult is a future promise to deliver the result of a

@@ -5,8 +5,8 @@
 package blockchain
 
 import (
-	"github.com/bitcoinsv/bsvd/bsvec"
-	"github.com/bitcoinsv/bsvd/txscript"
+	"github.com/whatsonchain/bsvd/bsvec"
+	"github.com/whatsonchain/bsvd/txscript"
 )
 
 // -----------------------------------------------------------------------------

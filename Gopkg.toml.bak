@@ -47,11 +47,11 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/bitcoinsv/bsvlog"
+  name = "github.com/whatsonchain/bsvlog"
 
 [[constraint]]
   branch = "master"
-  name = "github.com/bitcoinsv/bsvutil"
+  name = "github.com/whatsonchain/bsvutil"
 
 [[constraint]]
   branch = "master"

@@ -39,3 +39,4 @@ _testmain.go
 
 .idea/
 *.iml
+.history/

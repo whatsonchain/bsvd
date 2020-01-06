@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 var (

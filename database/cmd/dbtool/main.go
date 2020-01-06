@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvlog"
 	flags "github.com/jessevdk/go-flags"
 )
 

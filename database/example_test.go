@@ -10,11 +10,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/database"
-	_ "github.com/bitcoinsv/bsvd/database/ffldb"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/database"
+	_ "github.com/whatsonchain/bsvd/database/ffldb"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // This example demonstrates creating a new database.
@@ -22,8 +22,8 @@ func ExampleCreate() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/bitcoinsv/bsvd/database"
-	// 	_ "github.com/bitcoinsv/bsvd/database/ffldb"
+	// 	"github.com/whatsonchain/bsvd/database"
+	// 	_ "github.com/whatsonchain/bsvd/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -48,8 +48,8 @@ func Example_basicUsage() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/bitcoinsv/bsvd/database"
-	// 	_ "github.com/bitcoinsv/bsvd/database/ffldb"
+	// 	"github.com/whatsonchain/bsvd/database"
+	// 	_ "github.com/whatsonchain/bsvd/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
@@ -114,8 +114,8 @@ func Example_blockStorageAndRetrieval() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/bitcoinsv/bsvd/database"
-	// 	_ "github.com/bitcoinsv/bsvd/database/ffldb"
+	// 	"github.com/whatsonchain/bsvd/database"
+	// 	_ "github.com/whatsonchain/bsvd/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.

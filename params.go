@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // activeNetParams is a pointer to the parameters specific to the

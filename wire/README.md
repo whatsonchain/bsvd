@@ -3,7 +3,7 @@ wire
 
 [![Build Status](https://travis-ci.org/bitcoinsv/bsvd.png?branch=master)](https://travis-ci.org/bitcoinsv/bsvd)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/bitcoinsv/bsvd/wire)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/whatsonchain/bsvd/wire)
 =======
 
 Package wire implements the bitcoin wire protocol.  A comprehensive suite of
@@ -19,7 +19,7 @@ protocol level.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/bitcoinsv/bsvd/wire
+$ go get -u github.com/whatsonchain/bsvd/wire
 ```
 
 ## Bitcoin Message Overview

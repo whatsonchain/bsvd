@@ -19,9 +19,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 const (

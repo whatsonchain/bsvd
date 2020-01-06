@@ -7,8 +7,8 @@ package txscript
 import (
 	"fmt"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvutil"
 )
 
 const (

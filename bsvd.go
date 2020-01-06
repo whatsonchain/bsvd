@@ -15,11 +15,11 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/bitcoinsv/bsvd/blockchain/indexers"
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvd/limits"
-	"github.com/bitcoinsv/bsvd/version"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/blockchain/indexers"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvd/limits"
+	"github.com/whatsonchain/bsvd/version"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 const (

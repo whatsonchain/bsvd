@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/txscript"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/txscript"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

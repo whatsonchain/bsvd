@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bitcoinsv/bsvd/bsvec"
+	"github.com/whatsonchain/bsvd/bsvec"
 )
 
 func main() {

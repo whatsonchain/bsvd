@@ -10,9 +10,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/peer"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/peer"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // mockRemotePeer creates a basic inbound peer listening on the simnet port for

@@ -7,7 +7,7 @@ package blockchain
 import (
 	"math"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/chaincfg"
 )
 
 const (

@@ -9,11 +9,11 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/blockchain/indexers"
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvd/limits"
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/blockchain/indexers"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvd/limits"
+	"github.com/whatsonchain/bsvlog"
 )
 
 const (

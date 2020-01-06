@@ -25,8 +25,8 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/bitcoinsv/bsvutil"
-//          "github.com/bitcoinsv/bsvd/chaincfg"
+//          "github.com/whatsonchain/bsvutil"
+//          "github.com/whatsonchain/bsvd/chaincfg"
 //  )
 //
 //  var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")

@@ -14,8 +14,8 @@ import (
 	"runtime"
 	"time"
 
-	rpc "github.com/bitcoinsv/bsvd/rpcclient"
-	"github.com/bitcoinsv/bsvutil"
+	rpc "github.com/whatsonchain/bsvd/rpcclient"
+	"github.com/whatsonchain/bsvutil"
 )
 
 // nodeConfig contains all the args, and data required to launch a bsvd process

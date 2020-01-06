@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 const (

@@ -5,7 +5,7 @@
 package connmgr
 
 import (
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvlog"
 )
 
 // log is a logger that is initialized with no output filters.  This

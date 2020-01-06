@@ -7,9 +7,9 @@ package ffldb
 import (
 	"fmt"
 
-	"github.com/bitcoinsv/bsvd/database"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvd/database"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvlog"
 )
 
 var log = bsvlog.Disabled

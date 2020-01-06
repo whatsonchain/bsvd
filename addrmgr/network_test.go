@@ -8,8 +8,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/addrmgr"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/addrmgr"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

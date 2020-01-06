@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // TestMruInventoryMap ensures the MruInventoryMap behaves as expected including

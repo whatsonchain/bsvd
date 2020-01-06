@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/database"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/database"
 )
 
 // blockRegionCmd defines the configuration options for the fetchblockregion

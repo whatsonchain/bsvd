@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/database"
-	_ "github.com/bitcoinsv/bsvd/database/ffldb"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/database"
+	_ "github.com/whatsonchain/bsvd/database/ffldb"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // fixedExcessiveBlockSize should not be the default -we want to ensure it will work in all cases

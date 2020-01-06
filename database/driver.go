@@ -7,7 +7,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/bitcoinsv/bsvlog"
+	"github.com/whatsonchain/bsvlog"
 )
 
 // Driver defines a structure for backend drivers to use when they registered
